@@ -18,6 +18,8 @@ A modern Flutter-based mobile application developed with a focus on performance,
 
 Ripple follows modern mobile development practices and uses a scalable architecture designed to support future expansion, feature improvements, and long-term maintainability.
 
+<img width="1080" height="2340" alt="Screenshot_20260713_151207" src="https://github.com/user-attachments/assets/b6f8e47b-5b6c-477f-9c74-7ff859b1ca4c" />
+
 ---
 
 ### 2. Vehicle Inventory App
@@ -32,6 +34,8 @@ Key capabilities include **inventory management, QR-based billing, real-time ord
 
 The system provides a complete digital solution for improving operational efficiency and simplifying daily business workflows.
 
+<img width="1080" height="2340" alt="V (1)" src="https://github.com/user-attachments/assets/0caba0d1-bf20-4592-9fb1-0f8de6af13a1" />
+
 ---
 
 ### 3. TrackSitePro
@@ -44,6 +48,7 @@ TrackSitePro provides a centralized digital solution for improving communication
 
 The application is designed to help teams organize workflows, track site activities, and improve operational visibility.
 
+
 ---
 
 ### 4. AI-Powered IELTS Preparation App
@@ -55,6 +60,9 @@ An AI-powered mobile application designed to provide a modern and interactive IE
 The application focuses on helping students improve their IELTS preparation through intelligent learning tools, structured practice, and AI-assisted features.
 
 Built using modern mobile development technologies, the platform is designed to provide a scalable, responsive, and user-friendly learning experience.
+
+<img width="1080" height="2340" alt="Screenshot_20260713_153629" src="https://github.com/user-attachments/assets/802c84f1-d429-48fd-9793-6608a7f43a20" />
+
 
 ---
 
