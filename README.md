@@ -88,6 +88,11 @@ Key capabilities include **birth chart exploration, natal chart analysis, planet
 
 The application is presented as part of the Zynox Tech mobile application portfolio showcase.
 
+
+
+https://github.com/user-attachments/assets/2328ca62-2994-41eb-a430-4a2587dc3628
+
+
 ---
 
 ### 6. Flaty.PK — Real Estate Platform
@@ -101,6 +106,8 @@ Flaty.PK allows users to explore property listings and discover real estate oppo
 The platform focuses on **property discovery, real estate listings, modern mobile navigation, responsive design, and an optimized property browsing experience**.
 
 The application provides a digital platform connecting users with real estate opportunities in Pakistan.
+
+<img width="1206" height="2622" alt="1" src="https://github.com/user-attachments/assets/31ce0625-5c95-402b-8e80-f77c277e5c30" />
 
 ---
 
@@ -129,6 +136,8 @@ The application provides users with step-by-step licensing guidance, eligibility
 Key capabilities include **eligibility checking, licensing guidance, secure document management, practice tests, expert tips, application tracking, and a user-friendly mobile experience**.
 
 GDriving provides a centralized digital companion for users navigating the driver's licensing process.
+
+<img width="300" height="650" alt="gdriving 1" src="https://github.com/user-attachments/assets/666461b1-b5e0-4485-89b7-10597affde70" />
 
 ---
 
