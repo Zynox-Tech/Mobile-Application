@@ -21,7 +21,7 @@ Ripple follows modern mobile development practices and uses a scalable architect
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b6f8e47b-5b6c-477f-9c74-7ff859b1ca4c"
        alt="Ripple Mobile Application"
-       width="300" />
+       width="280" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ The system provides a complete digital solution for improving operational effici
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0caba0d1-bf20-4592-9fb1-0f8de6af13a1"
        alt="Vehicle Inventory Application"
-       width="300" />
+       width="280" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ Built using modern mobile development technologies, the platform provides a scal
 <p align="center">
   <img src="https://github.com/user-attachments/assets/802c84f1-d429-48fd-9793-6608a7f43a20"
        alt="AI IELTS Preparation Application"
-       width="300" />
+       width="280" />
 </p>
 
 ---
@@ -88,10 +88,11 @@ Key capabilities include **birth chart exploration, natal chart analysis, planet
 
 The application is presented as part of the Zynox Tech mobile application portfolio showcase.
 
-
-
-https://github.com/user-attachments/assets/2328ca62-2994-41eb-a430-4a2587dc3628
-
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/2328ca62-2994-41eb-a430-4a2587dc3628"
+         width="320">
+  </video>
+</p>
 
 ---
 
@@ -107,7 +108,11 @@ The platform focuses on **property discovery, real estate listings, modern mobil
 
 The application provides a digital platform connecting users with real estate opportunities in Pakistan.
 
-<img width="1206" height="2622" alt="1" src="https://github.com/user-attachments/assets/31ce0625-5c95-402b-8e80-f77c277e5c30" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31ce0625-5c95-402b-8e80-f77c277e5c30"
+       alt="Flaty.PK Real Estate Platform"
+       width="280" />
+</p>
 
 ---
 
@@ -137,7 +142,11 @@ Key capabilities include **eligibility checking, licensing guidance, secure docu
 
 GDriving provides a centralized digital companion for users navigating the driver's licensing process.
 
-<img width="300" height="650" alt="gdriving 1" src="https://github.com/user-attachments/assets/666461b1-b5e0-4485-89b7-10597affde70" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/666461b1-b5e0-4485-89b7-10597affde70"
+       alt="GDriving Driver's License Companion"
+       width="280" />
+</p>
 
 ---
 
